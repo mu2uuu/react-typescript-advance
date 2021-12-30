@@ -1,2 +1,2 @@
-# react-typescript-advance
+# react-typescript
 Created with CodeSandbox
